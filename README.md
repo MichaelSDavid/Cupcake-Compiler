@@ -13,7 +13,7 @@ Both Cupcake and me has no association with Jonathan Blow or JAIs development. T
 |**Windows 32bit**         |[v0.1-alpha](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.1-alpha)|
 |**Windows 32bit**         |[v0.2-alpha](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha)|
 
-*The executable is by nature 32-bit, but runs on 64-bit systems with the builtin WoW64.* More platforms will be supported later. There is a lot of windows specific code in this release and it will take a while to port everything over. 
+*The executable is by nature 32-bit, but runs on 64-bit systems with the built-in WoW64.* More platforms will be supported later. There is a lot of windows specific code in this release and it will take a while to port everything over. 
 
 # Download #
 Here is the latest release: [Cupcake v0.2-alpha](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha).
