@@ -38,10 +38,8 @@ v0.2-alpha  | 2018-08-04 | [Download](https://github.com/MichaelSDavid/Cupcake-C
 - Arguments like `-v/--version, --nologo, -h/--help` currently cannot be called with `cupcake` and will be fixed later
 - Compilation of the C++ output is currently under many errors and will be revised soon, for now, always make
   sure to include `#run main()` or `#run any_func()` at the end of the file or with the `-r` argument
-
-
-
-
+  
+# Call and Run
 ```
 cupcake main.jai
 ```
