@@ -101,7 +101,9 @@ The goal is to make Cupcake as great as possible and to do that i need your help
 ~~For now I have decided to not release the source code. Why, because I don't know if it would be fair to Jonathan Blow and I am not very proud of the quality of the code. There is a huge amount of unnecessary code that could and should be removed, Cupcake v0.1-alpha is around 45k LOC.~~
 Decomps have been unofficially made (just rough structure, not full source)
 
-# Licence #
+# License #
+
+__ORIGINAL CREATOR LICENSE OF JUGODLIS__
 
 MIT License
 
