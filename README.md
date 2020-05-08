@@ -4,7 +4,7 @@
 # Cupcake
 Cupcake is a compiler for Jonathan Blows new programming language **JAI**. The compiler is built from the ideas and temporary specification that Blow has given in his Youtube and Twitch [videos](https://www.youtube.com/user/jblow888/videos). Cupcake has almost everything implemented that Jonathan Blow has shown in his videos so far (2016-06-12). 
 
-Both Cupcake and me has no association with Jonathan Blow or JAIs development. The experience you have with Cupcake should not be reflected towards JAI and your opinion of it, **_Cupcake is not JAI_**. Cupcake is my hobby project, created for me to learn how a compiler works and how programs goes from source code to machine code.
+Both Cupcake and me has no association with Jonathan Blow or JAI's development. The experience you have with Cupcake should not be reflected towards JAI and your opinion of it, **_Cupcake is not JAI_**. Cupcake is my hobby project, created for me to learn how a compiler works and how programs goes from source code to machine code.
 
 ### Platform support ###
 
