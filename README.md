@@ -12,16 +12,20 @@ Both Cupcake and me has no association with Jonathan Blow or JAIs development. T
 |---|---|
 |**Windows 32bit**         |[v0.1-alpha](https://github.com/Julgodis/Cupcake-Compiler/releases/tag/v0.1-alpha)|
 |**Windows 32bit**         |[v0.2-alpha](https://github.com/Julgodis/Cupcake-Compiler/releases/tag/v0.2-alpha)|
+|**Windows 32bit/Mac OSX** |[v0.2-alpha-with-mac](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha)|
 
-*The executable is by nature 32-bit, but runs on 64-bit systems with the built-in WoW64.* More platforms will be supported later. There is a lot of windows specific code in this release and it will take a while to port everything over. 
+
+
+*The executable is by nature 32-bit, but runs on 64-bit systems with the built-in WoW64.* More platforms will be natively supported later. There is a lot of Windows specific code in this release and it will take a while to port everything over.
 
 # Download #
-Here is the latest release: [Cupcake v0.2-alpha](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha).
+Here is the latest release: [Cupcake v0.2-alpha with Mac support](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha).
 
 Version  | Date | Link
 ------------- | ------------- | ------------- 
 v0.1-alpha  | 2016-06-12 | [Download](https://github.com/Julgodis/Cupcake-Compiler/releases/tag/v0.1-alpha)
 v0.2-alpha  | 2018-08-04 | [Download](https://github.com/Julgodis/Cupcake-Compiler/releases/tag/v0.2-alpha)
+v0.2-alpha-with-mac  | 2020-05-08 (Raw source still 2018 version) | [Download](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha)
 
 # Usage #
 1. Download the latest release.
