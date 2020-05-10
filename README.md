@@ -35,7 +35,7 @@ v0.2-alpha-with-mac  | 2020-05-08 (Raw source still 2018 version) | [Download](h
 # SPECIFICS #
 - Ideal location of install: `%userprofile%`
 - Ideal to add "cupcake-v0.2-alpha\v0.2-alpha\Windows-32-bit" to the system environment variable `$PATH`
-- Ideal to rename the executable to `jai.exe`
+- Another path to take is to rename the executable to `jai.exe` if comfortable (to save like half a second when typing)
 - Make sure to run `cupcake` in the same directory as the exe to not get module and output errors
 - If ran in another directory, make sure to supply the `modules` folder in the `-l` argument when running
 - Ideal to make a symlink with `mklink /d <modules and target source> <endpath>` for `modules` and `target`
