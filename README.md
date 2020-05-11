@@ -103,7 +103,7 @@ Polymorphic Procedures [Part 1](https://www.youtube.com/watch?v=BwqeFrlSpuI) & [
 
 **Some out-of-the-box syntax highlighting is included in**:</br>
 [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Mim.jai-language-support)</br>
-[Microsoft Visual Studio (only 2013 and 2015)](https://marketplace.visualstudio.com/items?itemName=InductiveAS.JaiRevolution)</br>
+[Microsoft Visual Studio (only 2013 and 2015, deprecated and not recommended)](https://marketplace.visualstudio.com/items?itemName=InductiveAS.JaiRevolution)</br>
 [Sublime Text](https://packagecontrol.io/packages/JaiTools)</br>
 Eclipse...sort of (for CDT, add .jai to C++ file associations (similar syntax))
 
