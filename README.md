@@ -71,7 +71,7 @@ The release includes a few examples, but there is no other documentation availab
 cupcake examples/EXAMPLE_NAME/main.jai
 ```
 
-Because the specification for actual JAI is not complete, writing a documentation is not worth [Jugodlis'] time. Though some nice people have written stuff about the language that could be used as documentation. 
+Because the specification for actual JAI is not complete, writing a documentation is not worth [Julgodis'] time. Though some nice people have written stuff about the language that could be used as documentation. 
 
 [Jai Primer](https://sites.google.com/site/jailanguageprimer/) by Jorge Rodríguez.
 
