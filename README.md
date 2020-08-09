@@ -16,7 +16,7 @@ Both Cupcake and me has no association with Jonathan Blow or JAI's development. 
 
 
 
-*The executable is by nature 32-bit, but runs on 64-bit systems with the built-in WoW64.* More platforms will be natively supported later. There is a lot of Windows-specific code in this release and it will take a while to port everything over *natively*.
+*The executable is by nature 32-bit, but runs on 64-bit systems with the built-in WoW64.* More platforms will be supported later. There is a lot of Windows-specific code in this release and it will take a while to port everything over *natively*.
 
 # Download #
 Here is the latest release: [Cupcake v0.2-alpha with Mac support](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha).
