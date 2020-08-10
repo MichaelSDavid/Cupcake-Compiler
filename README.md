@@ -26,8 +26,8 @@ Here is the latest release: [Cupcake v0.2-alpha with Mac support](https://github
 Version  | Date | Link
 ------------- | ------------- | ------------- 
 v0.1-alpha  | 2016-06-12 | [Download](https://github.com/Julgodis/Cupcake-Compiler/releases/tag/v0.1-alpha)
-v0.2-alpha  | 2018-08-04 | [Download](https://github.com/Julgodis/Cupcake-Compiler/releases/tag/v0.2-alpha)
-v0.2-alpha-with-mac  | 2020-05-08 (Raw source still 2018 version) | [Download](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha)
+v0.2-alpha  | 2017-01-21 | [Download](https://github.com/Julgodis/Cupcake-Compiler/releases/tag/v0.2-alpha)
+v0.2-alpha-with-mac | 2020-05-08 (Raw source still 2017 version) | [Download](https://github.com/MichaelSDavid/Cupcake-Compiler/releases/tag/v0.2-alpha)
 
 # Usage #
 1. Download the latest release.
