@@ -85,31 +85,32 @@ spawn_invaders :: (level: S64) {
 // NOTE(Wase): The C code needs a main procedure to function. [No arguments]
 main :: () { game() }
 
+// Might need to change the resource paths locally on your end
 #run game()
 game :: () {
     handle := game_create_window()
     sound_manager = init_direct_sound(handle)
 
-    music_data := load_sound(sound_manager, "C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\commando.wav")
+    music_data := load_sound(sound_manager, "resources/commando.wav")
     sound_manager.music_data = music_data
 
     entity_manager = new Entity_Manager
-    font = font_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\KarminaBold.ttf", 48)
+    font = font_load("resources/KarminaBold.ttf", 48)
 
-    player_bullet_texture = texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\player_bullet.png")
-    enemy_bullet_texture = texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\enemy_bullet.png")
-    smoke_texture = texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\smoke.png")
-    pickup_texture_extra = texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\pickup_extra_bullet.png")
-    pickup_texture_shield = texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\pickup_shield.png")
-    pickup_texture_spread = texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\pickup_v_shot.png")
+    player_bullet_texture = texture_load("resources/player_bullet.png")
+    enemy_bullet_texture = texture_load("resources/enemy_bullet.png")
+    smoke_texture = texture_load("resources/smoke.png")
+    pickup_texture_extra = texture_load("resources/pickup_extra_bullet.png")
+    pickup_texture_shield = texture_load("resources/pickup_shield.png")
+    pickup_texture_spread = texture_load("resources/pickup_v_shot.png")
 
-    array_add(*bug_textures, texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\bug1.png"));
-    array_add(*bug_textures, texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\bug2.png"));
-    array_add(*bug_textures, texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\bug3.png"));
-    array_add(*bug_textures, texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\bug4.png"));
+    array_add(*bug_textures, texture_load("resources/bug1.png"));
+    array_add(*bug_textures, texture_load("resources/bug2.png"));
+    array_add(*bug_textures, texture_load("resources/bug3.png"));
+    array_add(*bug_textures, texture_load("resources/bug4.png"));
 
     player = Make(entity_manager, Player, WINDOW_WIDTH/2, WINDOW_HEIGHT*0.5) 
-    player.texture = texture_load("C:\\Users\\mdavi\\cupcake-v0.2-alpha\\v0.2-alpha\\Windows-32-bit\\examples\\game\\resources\\ship.png")
+    player.texture = texture_load("resources/ship.png")
     player.size = make_vector2(60, 60)
 
     level = 0
