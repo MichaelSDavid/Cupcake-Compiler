@@ -4,7 +4,7 @@
 Thread_Index :: #type S32;
 Thread_Proc  :: #type (*Thread) -> S32;
 
-HANDLE :: #type *Void
+HANDLE :: #type *Void;
 
 Thread_Os_Specific :: struct {
     windows_thread:    HANDLE;
