@@ -40,8 +40,8 @@ Vector :: struct (N: S64)
     }
 
     buffer: String_Buffer;
-    //sprint(*buffer, "    c: [N] F32\n\n")
-    //sprint(*buffer, "    #place c\n")
+    //sprint(*buffer, "    c: [N] F32\n\n");
+    //sprint(*buffer, "    #place c\n");
 
     for 0..N_value-1 {    
         if it_index <= 4 {
