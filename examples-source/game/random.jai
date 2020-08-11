@@ -1,3 +1,5 @@
+// TODO(MichaelSDavid): Update to traditional syntax
+
 RANDRANGE: U32 : 0x10000000;
 random_state: S32 = 0xbeefface; 
 
