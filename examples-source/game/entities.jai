@@ -1,3 +1,5 @@
+// TODO(MichaelSDavid): Update to traditional syntax
+
 
 Entity_Manager :: struct {
     batches: [..] *Entity_Batch
