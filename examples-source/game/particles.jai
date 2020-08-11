@@ -1,3 +1,4 @@
+// TODO(MichaelSDavid): Update to traditional syntax
 
 Particle :: struct {
     position: Vector2;
