@@ -1,4 +1,4 @@
-#import "Print.jai";
+#import "Print.jai"
 #import "TypeInfo.jai";
 
 cos  :: __cdecl #no_context (theta: F32) -> F32 #compiler "_cosf"; // NOTE(Wase): C-linkage is weird.
