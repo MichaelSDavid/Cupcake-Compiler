@@ -105,7 +105,7 @@ Polymorphic Procedures [Part 1](https://www.youtube.com/watch?v=BwqeFrlSpuI) & [
 [Iterators, (Overloading x Polymorphism)](https://www.youtube.com/watch?v=COQKyOCAxOQ)  | Everything implemented | Good enough
 
 **Some out-of-the-box syntax highlighting is included in**:</br>
-[Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Mim.jai-language-support)</br>
+[Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Mim.jai-language-support) (or just add .jai to C++ file associations (similar syntax))</br>
 [Microsoft Visual Studio (only 2013 and 2015, deprecated and not recommended)](https://marketplace.visualstudio.com/items?itemName=InductiveAS.JaiRevolution)</br>
 [Sublime Text](https://packagecontrol.io/packages/JaiTools)</br>
 Eclipse...sort of (for CDT, add .jai to C++ file associations (similar syntax))
