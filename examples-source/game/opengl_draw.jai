@@ -1,3 +1,4 @@
+// TODO(MichaelSDavid): Update to traditional syntax
 
 // NOTE(Wase): Used to fix the texture bug. 
 TA :: 0.01
