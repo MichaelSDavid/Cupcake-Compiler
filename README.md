@@ -117,8 +117,8 @@ __ORIGINAL CREATOR ISSUES OF JUGODLIS__
 The goal is to make Cupcake as great as possible and to do that i need your help. If you find any problems/bugs, please report them and don't forget to send example code that demonstrates the problem. You can use the Github issue section or send me an email at [support@jonathanwase.se](mailto://support@jonathanwase.se) (use the email if you don't want the demonstration source code to be public).
 
 # Source Code? #
-~~For now I have decided to not release the source code. Why, because I don't know if it would be fair to Jonathan Blow and I am not very proud of the quality of the code. There is a huge amount of unnecessary code that could and should be removed, Cupcake v0.1-alpha is around 45k LOC.~~
-Decomps have been unofficially made with the [Snowman](https://derevenets.com/) decompiler (just rough structure, not full source)
+For now I have decided to not release the source code. Why, because I don't know if it would be fair to Jonathan Blow and I am not very proud of the quality of the code. There is a huge amount of unnecessary code that could and should be removed, Cupcake v0.1-alpha is around 45k LOC.
+[Decomps are just a proof of concept through [Snowman](https://derevenets.com/) decompiler (just rough structure, not full source)]
 
 # License #
 
