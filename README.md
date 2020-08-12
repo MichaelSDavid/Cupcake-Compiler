@@ -1,4 +1,4 @@
-<!-- Potentially add a libraries section (first inclusion is Vulkan port: https://github.com/osor-io/Vulkan) (and other edits like Wase's initial conditions preservations that fit well with fork transformations) -->
+<!-- TODO: Potentially add a libraries section (first inclusion is Vulkan port: https://github.com/osor-io/Vulkan) (and other edits like Wase's initial conditions preservations that fit well with fork transformations) -->
 
 ![Cupcake](logo.png "Title is optional")
 
