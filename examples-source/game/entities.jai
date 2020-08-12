@@ -1,4 +1,4 @@
-Entity_Manager :: struct {
+Entity_Manager :: struct {{
     batches: [..] *Entity_Batch;
 }
 
