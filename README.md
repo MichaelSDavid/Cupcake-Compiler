@@ -122,7 +122,7 @@ For now I have decided to not release the source code. Why, because I don't know
 
 # License #
 
-__ORIGINAL CREATOR LICENSE OF JUGODLIS__
+__ORIGINAL CREATOR LICENSE OF JULGODIS__
 
 MIT License
 
