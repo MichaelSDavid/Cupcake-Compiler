@@ -1,6 +1,4 @@
-// TODO(MichaelSDavid): Update to traditional syntax
-
-#foreign_library "opengl_library.dll"
+#foreign_library "opengl_library.dll";
 
 create_window :: #no_context (width: S64, height: S64, name: *U8, window_handle_return: **Void) -> Bool #foreign;
 update_window_events :: #no_context () -> Void #foreign;
