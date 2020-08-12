@@ -1,5 +1,5 @@
 /*
-    Cupcake Demo:a
+    Cupcake Demo:
 
     Invader game clone from early demos of JAI by Jonathan Blow. The code uses stb-libraries (stb_imagae, stb_truetype) linked
     through a c library. The c library (opengl_library) also givs us an easy way to setup a window and opengl.
